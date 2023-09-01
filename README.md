@@ -1,2 +1,2 @@
-# inventario-procesos-2-23
+# inventario-procesos
 Proyecto de clase de procesos de negocio. Api de inventario.
